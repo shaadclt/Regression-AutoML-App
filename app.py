@@ -35,6 +35,7 @@ if choice == 'Modelling':
         best_model = compare_models()
         compare_df = pull()
         st.dataframe(compare_df)
+        save_model(best_model, 'best_model')
         
 if choice == 'Download':
     with open('best_model.pkl','rb') as f:
