@@ -1,6 +1,6 @@
 # Regression AutoML App
 
-This is a sample application that demonstrates how to build a regression AutoML app using Streamlit, Pandas Profiling, and PyCaret. The application allows users to upload a dataset, perform exploratory data analysis (EDA) using Pandas Profiling, and then build and evaluate regression models using PyCaret.
+This is a sample application that demonstrates how to build a regression AutoML app using Streamlit, Pandas Profiling, and PyCaret. The application allows users to upload a dataset, perform exploratory data analysis (EDA) using Pandas Profiling and then build and evaluate regression models using PyCaret.
 
 ## Installation
 
